@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Dot",
+        "repositoryURL": "https://github.com/rebeloper/Dot.git",
+        "state": {
+          "branch": null,
+          "revision": "d7f28cc05e4c719dcde90d425c09362d1e233ffc",
+          "version": "1.6.28"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
